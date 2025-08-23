@@ -1,4 +1,5 @@
 # Personal-Portfolio
+## [View Deploy](https://personal-portfolio-beta-khaki-75.vercel.app/)
 Terminal commands to set up:
 npm create vite@latest ./ --> y --> Remove existing files and continue --> set package name --> React --> JavaScript
 
